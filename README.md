@@ -1,6 +1,6 @@
-Sitepoint.com - Getting Started with Node.js - course
+# Sitepoint.com - Getting Started with Node.js - course
 
-
+```
 	- Configure Atom for Node API development
 
 	- Set up Node.js and get started with npm
@@ -10,7 +10,7 @@ Sitepoint.com - Getting Started with Node.js - course
 	- Use Postman to test your Node API
 
 	- Build a Hello, World project in Node
-
+```
 
  Learn to build server-side web apps in JavaScript by using Node.js.
 
@@ -25,9 +25,9 @@ In this course, you’ll learn about Node API development, setting up your Node.
 We’ll also run through your first Node.js application using a Hello, World! example.
 
 This is part one of a four part series. Get the full benefit by completing them in order:
-
+```
     Getting Started with Node.js
     Introduction to ES6
     Creating a REST API with Node
     Deploying a Node.js App to DigitalOcean
-
+```
